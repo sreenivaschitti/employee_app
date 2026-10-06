@@ -1,0 +1,13 @@
+{
+  "name": "employee-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js Employee API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0"
+  }
+}
